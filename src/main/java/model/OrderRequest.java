@@ -15,6 +15,6 @@ public class OrderRequest {
         this.quantity = quantity;
         this.shipDate = shipDate;
         this.status = status;
-        this.complete = complete; //kommenttt
+        this.complete = complete; //sildim
     }
 }
