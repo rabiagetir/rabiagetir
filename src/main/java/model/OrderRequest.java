@@ -15,6 +15,6 @@ public class OrderRequest {
         this.quantity = quantity;
         this.shipDate = shipDate;
         this.status = status;
-        this.complete = complete; //komment
+        this.complete = complete; //kommenttt
     }
 }
